@@ -1,0 +1,18 @@
+title: One Page Wonder, Start Bootstrap Template by startbootstrap.com
+email: your-email@example.com
+description: ""
+author: ""
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - LICENSE
+  - README.md
+  - one-page-wonder.gif
+
+# Social Profiles
+twitter_username: ""
+github_username: ""
+facebook_username: ""
