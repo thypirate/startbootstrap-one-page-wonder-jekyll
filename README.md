@@ -3,7 +3,7 @@
 [One Page Wonder](https://startbootstrap.com/themes/one-page-wonder/) is a theme for [Jekyll](https://jekyllrb.com) adapted from the [Bootstrap](https://getbootstrap.com/) based theme with the same name from the good folks at [Startbootrap.com](https://startbootstrap.com).
 
 ## Preview
-[![One Page Wonder](https://github.com/thypirate/startbootstrap-one-page-wonder-jekyll//blob/master/one-page-wonder.gif)](https://thypirate.github.io/startbootstrap-one-page-wonder-jekyll/)
+[![One Page Wonder](https://github.com/thypirate/startbootstrap-one-page-wonder-jekyll/blob/master/one-page-wonder.gif)](https://thypirate.github.io/startbootstrap-one-page-wonder-jekyll/)
 
 ## Download and Installing
 You can either:
